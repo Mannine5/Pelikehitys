@@ -45,6 +45,8 @@
 # Starter content 
 Content/StarterContent/
 
+_GENERATED
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
